@@ -1,0 +1,15 @@
+{
+  "name": "iknow",
+  "version": "1.0.0",
+  "description": "Chat with inbuilt knowledge sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Jägle",
+  "license": "ISC",
+  "dependencies": {
+    "rocket-chat": "0.0.1",
+    "typescript": "^1.8.9"
+  }
+}
