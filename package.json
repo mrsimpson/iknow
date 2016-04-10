@@ -9,7 +9,9 @@
   "author": "Oliver Jägle",
   "license": "ISC",
   "dependencies": {
+    "fibers": "^1.0.10",
     "rocket-chat": "0.0.1",
-    "typescript": "^1.8.9"
+    "typescript": "^1.8.9",
+    "ws": "^1.0.1"
   }
 }

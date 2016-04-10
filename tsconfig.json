@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        // "emitDecoratorMetadata": true,
+        "target": "ES6",
+        "module": "umd",
+        "outDir": "dist",
+        "sourceMap": true
+    }
+}
