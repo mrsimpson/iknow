@@ -38,7 +38,7 @@ class Script {
 
     HTTP.call("POST", "http://localhost/bigbrother",
           {
-              message: request.data.text
+            //  message: request.data.text
             }
          );
     

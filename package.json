@@ -9,9 +9,11 @@
   "author": "Oliver Jägle",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.3.2",
     "fibers": "^1.0.10",
     "rocket-chat": "0.0.1",
     "typescript": "^1.8.9",
+    "url": "^0.11.0",
     "ws": "^1.0.1"
   }
 }
